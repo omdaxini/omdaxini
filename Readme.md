@@ -12,7 +12,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Instagram" width="28px" src="https://i.pinimg.com/originals/66/41/c9/6641c94e15a0be37af49a4250386c03e.png" />][instagram]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://1000logos.net/wp-content/uploads/2017/03/Color-of-the-LinkedIn-Logo.jpg" />][linkedin]
 
 [instagram]: https://instagram.com/omdaxini
 [linkedin]: https://www.linkedin.com/in/omdaxini/
