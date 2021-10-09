@@ -15,8 +15,8 @@
 [<img align="left" alt="Om | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
 
 <br></br><br></br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omdaxini)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omdaxini&show_icons=true&theme=dracula)
 
 
 [instagram]: https://instagram.com/omdaxini
