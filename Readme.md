@@ -14,7 +14,8 @@
 [<img align="left" alt="Om | Instagram" width="28px" src="https://i.pinimg.com/originals/66/41/c9/6641c94e15a0be37af49a4250386c03e.png" />][instagram]
 [<img align="left" alt="Om | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
 
-<img align="left" alt="Om's Github Stats" src="https://github-readme-stats.vercel.app/api/username=omdaxini&show_icons=true&hide_border=true" />
+ <img align="left" alt="omdaxini's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=omdaxini&show_icons=true&hide_border=true" />
+
 
 [instagram]: https://instagram.com/omdaxini
 [linkedin]: https://www.linkedin.com/in/omdaxini/
