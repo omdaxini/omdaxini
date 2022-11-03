@@ -2,12 +2,7 @@
 
 ## I'm a student!
 
-- 🔭 I just entered university as a freshman!
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate for projects
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love chess!!
-- ♟️Highly interested in making neural networks and chess engines
 
 ### Connect with me:
 
