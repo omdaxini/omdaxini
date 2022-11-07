@@ -2,7 +2,7 @@
 
 ## I'm a student!
 
-- 👯 I’m looking to collaborate for projects
+- 👯 I’m looking to collaborate on projects
 
 ### Connect with me:
 
@@ -11,7 +11,7 @@
 
 <br></br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omdaxini&show_icons=true&theme=dracula)
+(https://github-readme-stats.vercel.app/api?username=omdaxini&show_icons=true&theme=dracula)
 
 [instagram]: https://instagram.com/omdaxini
 [linkedin]: https://www.linkedin.com/in/omdaxini/
