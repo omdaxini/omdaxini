@@ -11,7 +11,7 @@
 
 <br></br>
 
-(https://github-readme-stats.vercel.app/api?username=omdaxini&show_icons=true&theme=dracula)
+![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=omdaxini&show_icons=true&theme=dracula)
 
 [instagram]: https://instagram.com/omdaxini
 [linkedin]: https://www.linkedin.com/in/omdaxini/
